@@ -12,3 +12,6 @@ https://github.com/davidlam-codespace/github-final-project/blob/main/CODE_OF_CON
 
 ### URL of CONTRIBUTING.md
 https://github.com/davidlam-codespace/github-final-project/blob/main/CONTRIBUTING.md
+
+### URL of simple-interest.sh
+https://github.com/davidlam-codespace/github-final-project/blob/main/simple-interest.sh
