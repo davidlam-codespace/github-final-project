@@ -9,3 +9,6 @@ https://github.com/davidlam-codespace/github-final-project/blob/main/README.md
 
 ### URL of CODE_OF_CONDUCT.md
 https://github.com/davidlam-codespace/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+### URL of CONTRIBUTING.md
+https://github.com/davidlam-codespace/github-final-project/blob/main/CONTRIBUTING.md
