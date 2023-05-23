@@ -1,4 +1,5 @@
-## URL of the repository
+### URL of the repository
 https://github.com/davidlam-codespace/github-final-project
 
-## URL of LICENSE.md
+### URL of LICENSE
+https://github.com/davidlam-codespace/github-final-project/blob/main/LICENSE
